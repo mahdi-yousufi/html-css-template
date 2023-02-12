@@ -1,0 +1,9 @@
+  font-size: 130px;
+  font-family: var(--font-exo-bold-);
+  display: flex;
+  justify-content: center;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-fill-color: transparent;
+  color: var(--bs-gray-400);
+  margin: 0;
+  margin-top: 25px;
